@@ -1,0 +1,10 @@
+{
+  "name": "jest-timeout-issue",
+  "main": "main.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
